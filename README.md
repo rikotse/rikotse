@@ -4,7 +4,7 @@
 
 💻 **Aspiring Full-Stack Developer** | 🤖 AI Enthusiast | 🎨 Creative Problem-Solver  
 🌍 Based in Soweto, Johannesburg | 🧠 Lifelong Learner | 🎯 Goal-Driven  
-📚 Currently in the FNB App Academy Tech Bootcamp (Full-Stack Web Development)
+📚 Joined the FNB App Academy Tech Bootcamp (Full-Stack Web Development)
 
 ---
 
@@ -38,7 +38,7 @@ With a background in video editing, leadership, and customer service, I bring cr
 ## 📫 Let’s Connect
 
 - 📧 Email: [11faith.c@gmail.com](mailto:11faith.c@gmail.com)  
-- 💼 LinkedIn: [Coming Soon]  
+- 💼 LinkedIn: www.linkedin.com/in/khwatsi-chauke-4576b9295  
 - 🌐 Portfolio: [Coming Soon]
 
 ---
