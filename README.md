@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Khwatsi Chauke
 
-💻 **Aspiring Full-Stack Developer** | 🤖 AI Enthusiast | 🎨 Creative Problem-Solver  
+💻 **Aspiring Full-Stack/ UX/UI Developer** | 🤖 AI Enthusiast | 🎨 Creative Problem-Solver  
 🌍 Based in Soweto, Johannesburg | 🧠 Lifelong Learner | 🎯 Goal-Driven  
 📚 Joined the FNB App Academy Tech Bootcamp (Full-Stack Web Development)
 
@@ -19,10 +19,10 @@ With a background in video editing, leadership, and customer service, I bring cr
 ## 🛠️ Tech Stack & Tools
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **UI/UX & Design:** Figma, Responsive Design  
+- **UI/UX & Design:** Responsive Design  
 - **Version Control:** Git & GitHub  
-- **Tools:** Visual Studio Code, Postman  
-- **Learning Next:** React.js, Node.js, REST APIs  
+- **Tools:** Visual Studio Code 
+- **Learning Next:** React.js, Node.js, REST APIs, figma 
 
 ---
 
