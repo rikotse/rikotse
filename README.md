@@ -39,7 +39,7 @@ With a background in video editing, leadership, and customer service, I bring cr
 
 - 📧 Email: [11faith.c@gmail.com](mailto:11faith.c@gmail.com)  
 - 💼 LinkedIn: www.linkedin.com/in/khwatsi-chauke-4576b9295  
-- 🌐 Portfolio: https://rikotse.github.io/My-Portfolio/
+- 🌐 Portfolio: https://rikotse.github.io/My-Porfolio/
 
 ---
 
