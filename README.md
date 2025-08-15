@@ -1,62 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Khwatsi "Rikotse" Chauke  
 
-# 👋 Hi, I'm Khwatsi Chauke
-
-💻 **Aspiring Full-Stack/ UX/UI Developer** | 🤖 AI Enthusiast | 🎨 Creative Problem-Solver  
-🌍 Based in Soweto, Johannesburg | 🧠 Lifelong Learner | 🎯 Goal-Driven  
-📚 Joined the FNB App Academy Tech Bootcamp (Full-Stack Web Development)
+💻 **Junior Full-Stack Developer** | 🎨 **UI/UX Enthusiast** | 🤖 **AI Explorer**  
+🌍 Soweto, Johannesburg | 🧠 Lifelong Learner | 🎯 Building for Impact  
+📚 Graduate of the **FNB App Academy** | Currently pursuing **Oracle OCI Developer Professional** certification  
 
 ---
 
 ## 🚀 About Me
 
-I'm a 20-year-old future-focused developer passionate about building innovative and impactful digital solutions. I'm currently sharpening my skills through a 9-week intensive full-stack bootcamp with **FNB App Academy**, where I'm learning how to build modern, responsive web applications from scratch.
+I’m a 20-year-old developer passionate about building **innovative, user-centered, and scalable** digital solutions.  
+My journey blends a foundation in **Development Studies** with **full-stack web development**, and I’m currently on a mission to deepen my skills in **cloud technologies, modern frontend frameworks, and backend systems**.  
 
-With a background in video editing, leadership, and customer service, I bring creativity, attention to detail, and great communication to every team and project I join. I'm also fascinated by the power of AI and how it's reshaping tech, and I’m eager to explore how it can make development smarter and more human-centered.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **UI/UX & Design:** Responsive Design  
-- **Version Control:** Git & GitHub  
-- **Tools:** Visual Studio Code 
-- **Learning Next:** React.js, Node.js, REST APIs, figma 
+I’ve worked on projects ranging from **booking systems** to **e-commerce platforms**, integrating **databases, REST APIs, and dynamic UI components**.  
+After completing my BA in Development Studies at UNISA, my goal is to **transition fully into tech**, contributing to impactful solutions at scale.
 
 ---
 
-## 🌱 Currently Learning
+## 🛠 Tech Stack & Tools
 
-- Full-stack project development  
-- Building RESTful APIs  
-- JavaScript best practices  
-- Integrating AI tools into everyday workflows  
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
+**Backend:** Python, Django, Flask (basic)  
+**Databases:** SQLite, PostgreSQL (intro), MySQL basics  
+**Cloud:** Oracle Cloud Infrastructure (in progress)  
+**Version Control:** Git & GitHub  
+**UI/UX & Design:** Responsive Design, Figma  
+**Currently Learning:** React.js, Node.js, REST APIs  
+
+---
+
+## 📌 Featured Projects
+
+- **Lorraine’s Restaurant Web App** – Real-time booking system, animated UI, dynamic cart & menu filtering.  
+- **Fade Republic Barbershop Website** – Custom booking calendar with admin approval flow.  
+- **Task Manager Full-Stack App** – CRUD functionality with async fetch calls & Django backend.  
+- **Scientific Calculator App** – Advanced math functions, mobile-friendly design.  
+
+---
+
+## 🌱 Currently Growing In
+
+- Full-stack application deployment  
+- API integrations & automation  
+- Cloud-native development (OCI, AWS)  
+- AI-enhanced web workflows  
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [11faith.c@gmail.com](mailto:11faith.c@gmail.com)  
-- 💼 LinkedIn: www.linkedin.com/in/khwatsi-chauke-4576b9295  
-- 🌐 Portfolio: https://rikotse.github.io/My-Porfolio/
+📧 Email: [11faith.c@gmail.com](mailto:11faith.c@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/khwatsi-chauke-4576b9295](https://www.linkedin.com/in/khwatsi-chauke-4576b9295)  
+🌐 Portfolio: [rikotse.github.io/My-Porfolio](https://rikotse.github.io/My-Porfolio/)  
 
 ---
 
 ## ✨ Fun Fact
 
-I speak **6 languages**, love tech that makes life easier, and believe that teamwork really *does* make the dream work.
+I speak **6 languages**, love tech that simplifies life, and believe **teamwork turns ideas into reality**.  
 
 ---
 
-> "Work smart. Stay curious. Build with purpose." 💜  
+> *"Work smart. Stay curious. Build with purpose."* 💜
 
-
-<!--
-**rikotse/rikotse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
